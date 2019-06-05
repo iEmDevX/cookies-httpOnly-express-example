@@ -1,4 +1,4 @@
-# cookies httpOnly in express Exampl
+# cookies httpOnly in express Example
 
 ## install
 to Project Directoy and enter this code.
