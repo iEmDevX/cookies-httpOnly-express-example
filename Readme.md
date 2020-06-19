@@ -12,5 +12,5 @@ enter this code.
     npm run start
 Project it run on **[http://localhost:3000/](http://localhost:3000/)**
 
-<!-- localStorage -->
-<img src="http://url.to.file.which/not.exist" onerror=alert(document.cookie);>
+localStorage
+// <img src="http://url.to.file.which/not.exist" onerror=alert(document.cookie);>
