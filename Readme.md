@@ -13,4 +13,4 @@ enter this code.
 Project it run on **[http://localhost:3000/](http://localhost:3000/)**
 
 localStorage
-// <img src="http://url.to.file.which/not.exist" onerror=alert(document.cookie);>
+img src="http://url.to.file.which/not.exist" onerror=alert(document.cookie);
